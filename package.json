@@ -72,6 +72,7 @@
       "bootstrap": "github:twbs/bootstrap@^3.3.5",
       "fetch": "github:github/fetch@^0.10.1",
       "font-awesome": "npm:font-awesome@^4.4.0",
+      "google-maps-api": "npm:google-maps-api@^2.0.0",
       "text": "github:systemjs/plugin-text@^0.0.3"
     },
     "devDependencies": {

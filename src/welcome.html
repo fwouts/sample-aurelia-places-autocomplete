@@ -14,6 +14,8 @@
         <label>Full Name</label>
         <p class="help-block">${fullName | upper}</p>
       </div>
+      <require from="./place-picker"></require>
+      <place-picker location.two-way="homeLocation"></place-picker>
       <button type="submit" class="btn btn-default">Submit</button>
     </form>
   </section>
